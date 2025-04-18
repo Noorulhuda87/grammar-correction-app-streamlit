@@ -35,8 +35,6 @@ Folder Structure:
 Author:
 **Noorulhuda Khamees** – Software Engineering Technician, Python Developer, and AI Enthusiast based in Canada. I’m passionate about creating smart, clean tools that solve real-world problems using modern technology.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/noorulhuda-khamees)
-
 License:
 This project is open-source and available under the MIT License. Feel free to use and modify it with credit.
 
